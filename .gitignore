@@ -1,0 +1,32 @@
+# Datasets
+data/
+
+# Model checkpoints & weights
+*.pth
+*.pt
+*.bin
+
+# Python & Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
+env/
+
+# Media and Output artifacts
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp3
+*.docx
+*.log
+
+# System files
+.DS_Store
+.vscode/
+.idea/
